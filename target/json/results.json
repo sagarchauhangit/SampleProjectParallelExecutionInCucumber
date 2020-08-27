@@ -1,0 +1,214 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3160800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefs.SetUp(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "I want to navigate to a URL",
+        "description": "",
+        "id": "navigate-to-the-google.com;i-want-to-navigate-to-a-url",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "output": [
+              "Opened the Browser with URL: https://www.google.com/"
+            ],
+            "result": {
+              "duration": 84195825600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open the Browser and Navigate to the URL \"https://www.google.com/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://www.google.com/\"",
+                  "offset": 43
+                }
+              ],
+              "location": "StepDefs.i_open_the_Browser_and_Navigate_to_the_URL(String)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Navigate to the Google.com",
+    "description": "  Navigate to the Google.com",
+    "id": "navigate-to-the-google.com",
+    "keyword": "Feature",
+    "uri": "features/FeatureFile1.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2966300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefs.SetUp(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "I want to navigate to a URL",
+        "description": "",
+        "id": "navigate-to-the-amazon.in;i-want-to-navigate-to-a-url",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "output": [
+              "Opened the Browser with URL: https://www.amazon.in/"
+            ],
+            "result": {
+              "duration": 95550649800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open the Browser and Navigate to the URL \"https://www.amazon.in/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://www.amazon.in/\"",
+                  "offset": 43
+                }
+              ],
+              "location": "StepDefs.i_open_the_Browser_and_Navigate_to_the_URL(String)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Navigate to the amazon.in",
+    "description": "  Navigate to the amazon.in",
+    "id": "navigate-to-the-amazon.in",
+    "keyword": "Feature",
+    "uri": "features/FeatureFile2.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1176100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefs.SetUp(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "I want to navigate to a URL",
+        "description": "",
+        "id": "navigate-to-the-https://www.flipkart.com/;i-want-to-navigate-to-a-url",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "output": [
+              "Opened the Browser with URL: https://www.flipkart.com/"
+            ],
+            "result": {
+              "duration": 62437136900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open the Browser and Navigate to the URL \"https://www.flipkart.com/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://www.flipkart.com/\"",
+                  "offset": 43
+                }
+              ],
+              "location": "StepDefs.i_open_the_Browser_and_Navigate_to_the_URL(String)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Navigate to the https://www.flipkart.com/",
+    "description": "  Navigate to the https://www.flipkart.com/",
+    "id": "navigate-to-the-https://www.flipkart.com/",
+    "keyword": "Feature",
+    "uri": "features/FeatureFile3.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 388700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefs.SetUp(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "I want to navigate to a URL",
+        "description": "",
+        "id": "navigate-to-the-https://www.airtel.in/;i-want-to-navigate-to-a-url",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "output": [
+              "Opened the Browser with URL: https://www.airtel.in/"
+            ],
+            "result": {
+              "duration": 51207160500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open the Browser and Navigate to the URL \"https://www.airtel.in/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://www.airtel.in/\"",
+                  "offset": 43
+                }
+              ],
+              "location": "StepDefs.i_open_the_Browser_and_Navigate_to_the_URL(String)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Navigate to the https://www.airtel.in/",
+    "description": "  Navigate to the https://www.airtel.in/",
+    "id": "navigate-to-the-https://www.airtel.in/",
+    "keyword": "Feature",
+    "uri": "features/FeatureFile4.feature",
+    "tags": []
+  }
+]
